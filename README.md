@@ -28,8 +28,20 @@
 - html 📂
 - CSS 🎨 🖌️
 - visual code editor ⌨️
-- google browser 🔖
+- google browser 🔖 <br>
 
-# Preview<nr>
+# Preview<br>
+
+
+<h1 align="center"><img src="https://github.com/0xabdul/Advice-Generator-App/assets/119418867/f39112bb-ec63-4148-a3bd-52300811bf9f" height="1000px"></img></h1><br><br>
+
+# live site ✅<br>
+
+<ul>
+  <li><a href="">CLICK HERE !</a></li>
+   <li><a href="">PREVIEW SITE</a></li>
+</ul>
+
+
 
 
