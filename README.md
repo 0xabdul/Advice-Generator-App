@@ -23,4 +23,14 @@
 
 # Frontend Mentor - Advice generator app<br>
 
-this is front end mentor newbie challenge using  [  HTML & CSS ,  JS, API  ]  and this is my first js projects API using 
+## Tools are used <br>
+
+- html 📂
+- CSS 🎨 🖌️
+- visual code editor ⌨️
+- google browser 🔖
+
+# Preview<nr>
+
+## Scrennshot<br>
+
