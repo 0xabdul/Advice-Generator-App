@@ -40,7 +40,17 @@
 <ul>
   <li><a href="https://0xabdul.github.io/Advice-Generator-App/">CLICK HERE !</a></li><br>
    <li><a href="">PREVIEW SITE</a></li>
-</ul>
+</ul><br>
+
+
+## Author<br>
+- Frontend Mentor - [@oxabdul](https://www.frontendmentor.io/profile/0xAbdul)<br>
+
+
+
+## Acknowledgments<br>
+<ul>
+  <li>Inspiration by <a href="https://www.frontendmentor.io/home">Frontend Mentor</a></li>
 
 
 
