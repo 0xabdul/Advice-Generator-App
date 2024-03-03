@@ -38,7 +38,7 @@
 # live site ✅<br>
 
 <ul>
-  <li><a href="">CLICK HERE !</a></li><br>
+  <li><a href="https://0xabdul.github.io/Advice-Generator-App/">CLICK HERE !</a></li><br>
    <li><a href="">PREVIEW SITE</a></li>
 </ul>
 
